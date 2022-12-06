@@ -1,4 +1,3 @@
 # git_test
 
-Hello Odin
-abcdefghijklmnopqrstuvwxyz
+the new odin
